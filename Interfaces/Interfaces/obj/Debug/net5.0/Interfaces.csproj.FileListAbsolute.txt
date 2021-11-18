@@ -1,0 +1,16 @@
+C:\Users\duduh\OneDrive\Área de Trabalho\Interface-CSharp\Interfaces\Interfaces\bin\Debug\net5.0\Interfaces.exe
+C:\Users\duduh\OneDrive\Área de Trabalho\Interface-CSharp\Interfaces\Interfaces\bin\Debug\net5.0\Interfaces.deps.json
+C:\Users\duduh\OneDrive\Área de Trabalho\Interface-CSharp\Interfaces\Interfaces\bin\Debug\net5.0\Interfaces.runtimeconfig.json
+C:\Users\duduh\OneDrive\Área de Trabalho\Interface-CSharp\Interfaces\Interfaces\bin\Debug\net5.0\Interfaces.runtimeconfig.dev.json
+C:\Users\duduh\OneDrive\Área de Trabalho\Interface-CSharp\Interfaces\Interfaces\bin\Debug\net5.0\Interfaces.dll
+C:\Users\duduh\OneDrive\Área de Trabalho\Interface-CSharp\Interfaces\Interfaces\bin\Debug\net5.0\ref\Interfaces.dll
+C:\Users\duduh\OneDrive\Área de Trabalho\Interface-CSharp\Interfaces\Interfaces\bin\Debug\net5.0\Interfaces.pdb
+C:\Users\duduh\OneDrive\Área de Trabalho\Interface-CSharp\Interfaces\Interfaces\obj\Debug\net5.0\Interfaces.csproj.AssemblyReference.cache
+C:\Users\duduh\OneDrive\Área de Trabalho\Interface-CSharp\Interfaces\Interfaces\obj\Debug\net5.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duduh\OneDrive\Área de Trabalho\Interface-CSharp\Interfaces\Interfaces\obj\Debug\net5.0\Interfaces.AssemblyInfoInputs.cache
+C:\Users\duduh\OneDrive\Área de Trabalho\Interface-CSharp\Interfaces\Interfaces\obj\Debug\net5.0\Interfaces.AssemblyInfo.cs
+C:\Users\duduh\OneDrive\Área de Trabalho\Interface-CSharp\Interfaces\Interfaces\obj\Debug\net5.0\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\duduh\OneDrive\Área de Trabalho\Interface-CSharp\Interfaces\Interfaces\obj\Debug\net5.0\Interfaces.dll
+C:\Users\duduh\OneDrive\Área de Trabalho\Interface-CSharp\Interfaces\Interfaces\obj\Debug\net5.0\ref\Interfaces.dll
+C:\Users\duduh\OneDrive\Área de Trabalho\Interface-CSharp\Interfaces\Interfaces\obj\Debug\net5.0\Interfaces.pdb
+C:\Users\duduh\OneDrive\Área de Trabalho\Interface-CSharp\Interfaces\Interfaces\obj\Debug\net5.0\Interfaces.genruntimeconfig.cache
